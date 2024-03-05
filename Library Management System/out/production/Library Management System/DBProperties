@@ -1,0 +1,4 @@
+DBDriver=com.mysql.cj.jdbc.Driver
+DBName=jdbc:mysql://localhost:3306/libmansys
+User=root
+Password=Mysql@123
