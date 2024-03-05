@@ -17,7 +17,7 @@ author_name varchar(100),
 subject_name varchar(100),
 units_available int(5),
 
-3.member_book_record :
+3. member_book_record :
 rec_id int(18),
 member_id int(10),
 isbn_code varchar(50),
